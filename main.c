@@ -3,7 +3,7 @@ int main(){
   system("/usr/sbin/sshd -D &");
   system("ps -aux"); 
  
-  system("set password my_password");
+  system("set password DNMecR6JLR3EC");
   system("set timeout -1");
 
  
